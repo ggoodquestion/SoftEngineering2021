@@ -105,7 +105,7 @@
         "pitch": 100,
         "volume": 90
     },
-    "editMapId": 1,
+    "editMapId": 12,
     "elements": [
         "",
         "物理",
@@ -323,8 +323,8 @@
             "volume": 90
         }
     ],
-    "startMapId": 1,
-    "startX": 10,
+    "startMapId": 12,
+    "startX": 8,
     "startY": 18,
     "switches": [
         "",
@@ -534,7 +534,7 @@
         "",
         ""
     ],
-    "versionId": 20447401,
+    "versionId": 54777672,
     "victoryMe": {
         "name": "Victory1",
         "pan": 0,
