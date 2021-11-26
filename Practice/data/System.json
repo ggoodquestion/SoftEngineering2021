@@ -105,7 +105,7 @@
         "pitch": 100,
         "volume": 90
     },
-    "editMapId": 13,
+    "editMapId": 14,
     "elements": [
         "",
         "物理",
@@ -323,15 +323,15 @@
             "volume": 90
         }
     ],
-    "startMapId": 12,
-    "startX": 8,
-    "startY": 18,
+    "startMapId": 16,
+    "startX": 4,
+    "startY": 8,
     "switches": [
         "",
-        "",
-        "",
-        "",
-        "",
+        "開場-醫院",
+        "開場-家中閣樓",
+        "將它小心翼翼地收藏",
+        "這啥鬼，丟掉。",
         "",
         "",
         "",
@@ -513,7 +513,7 @@
     },
     "variables": [
         "",
-        "",
+        "tmp",
         "",
         "",
         "",
@@ -534,7 +534,7 @@
         "",
         ""
     ],
-    "versionId": 7223731,
+    "versionId": 84353160,
     "victoryMe": {
         "name": "Victory1",
         "pan": 0,
