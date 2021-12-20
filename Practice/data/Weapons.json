@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"animationId":0,"description":"\\}你已獲得日記本！","etypeId":1,"traits":[],"iconIndex":187,"name":"日記本","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":187,"name":"日記一","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":187,"name":"日記二","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":187,"name":"日記三","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+{"id":1,"animationId":0,"description":"\\}時間不足會使人失去信念。\n想要擁有充實的一天，就必須在預定行程之間安排空檔，讓自己能準備好專注處理 \"某一項預定的事\"。","etypeId":1,"traits":[],"iconIndex":0,"name":"忙碌的反效果","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":0,"description":"\\}不吝給予別人協助，也大方接受別人的幫助。\n人一旦受惠，會產生回報的慾望，而這一點與個人喜好無關。","etypeId":1,"traits":[],"iconIndex":28,"name":"互惠原則","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":29,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":13,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
 ]
