@@ -15,5 +15,5 @@ null,
 {"id":13,"expanded":false,"name":"art calss","order":8,"parentId":14,"scrollX":686.6666666666666,"scrollY":422.6666666666667},
 {"id":14,"expanded":true,"name":"Mix","order":5,"parentId":0,"scrollX":2058.222222222222,"scrollY":558.6666666666666},
 {"id":15,"expanded":true,"name":"Church Inner","order":9,"parentId":14,"scrollX":816,"scrollY":656},
-{"id":16,"expanded":false,"name":"醫院","order":1,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":16,"expanded":false,"name":"醫院","order":1,"parentId":0,"scrollX":686.6666666666666,"scrollY":422.6666666666667}
 ]
