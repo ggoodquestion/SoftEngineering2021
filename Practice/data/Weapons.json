@@ -1,7 +1,23 @@
 [
 null,
 {"id":1,"animationId":0,"description":"\\}時間不足會使人失去信念。\n想要擁有充實的一天，就必須在預定行程之間安排空檔，讓自己能準備好專注處理 \"某一項預定的事\"。","etypeId":1,"traits":[],"iconIndex":0,"name":"忙碌的反效果","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":2,"animationId":0,"description":"\\}不吝給予別人協助，也大方接受別人的幫助。\n人一旦受惠，會產生回報的慾望，而這一點與個人喜好無關。","etypeId":1,"traits":[],"iconIndex":28,"name":"互惠原則","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":29,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":13,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+{"id":2,"animationId":0,"description":"\\}\"Never Be Late Again\"這本書提及 \"遲到的人往往樂觀又不現實\"。這意味著他們打從心底相信在接孩子放學前\n的一小時內，可以完成跑步、洗澡、買晚餐和拿乾洗衣服等任務，到最後還是能準時到達學校。","etypeId":1,"traits":[],"iconIndex":28,"name":"遲到大王","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":3,"animationId":0,"description":"\\}不吝給予別人協助，也大方接受別人的幫助。\n人一旦受惠，會產生回報的慾望，而這一點與個人喜好無關。","etypeId":1,"traits":[],"iconIndex":28,"name":"互惠原則","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":4,"animationId":0,"description":"\\}透過記住有關對方的小事來獲得對方的好感，是一個非常有效的社交心理策略，無論對方是大人物還是普通人\n，這個方法都同樣有效。","etypeId":1,"traits":[],"iconIndex":13,"name":"努力記住有關對方的小事","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":0,"description":"\\}鈴蘭有幸福歸來、純潔、謙遜等意思，所以常常被拿來作為新娘的捧花，例如英國凱特王妃，她與威廉王子的\n婚禮上，就以此作為婚禮花束的主要花材，雖然花束不大卻非常優雅且精緻。","etypeId":1,"traits":[],"iconIndex":0,"name":"鈴蘭花","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":6,"animationId":0,"description":"\\}繡球花雖然沒有蘭花優雅，沒有牡丹高貴，沒有茉莉花清香。但它有著頑強的生命力，只要有水、陽光的地方\n都可以使它生長得很旺盛。粉色繡球花有可愛、純真、美好的回憶、期待愛情等意思。","etypeId":1,"traits":[],"iconIndex":0,"name":"繡球花","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":7,"animationId":0,"description":"\\}朱槿的花色豔麗，有熱情豪放之感，但卻有獨特的花心，由多數小蕊連結，包在大蕊外面形成。結構細緻，如\n熱情外表下的纖細之心。因此朱槿花有纖細、體貼、清新之美、新鮮的戀情等意思。","etypeId":1,"traits":[],"iconIndex":0,"name":"朱槿花","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":8,"animationId":0,"description":"\\}取悅他人，自己也會充滿喜悅。\n無論是多麼微不足道的事，只要能夠取悅他人，便能讓我們的雙手與內心充滿喜悅。","etypeId":1,"traits":[],"iconIndex":0,"name":"「悅人也悅己」","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":11,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":12,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":13,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":14,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":15,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":16,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":17,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
 ]
