@@ -17,7 +17,5 @@ null,
 {"id":15,"animationId":0,"description":"\\}有人和你一起生活，經歷同樣的事與感動，一起哭，一起笑，度過同一段時光。世上還有比這更美妙的事嗎？","etypeId":1,"traits":[],"iconIndex":0,"name":"再沒有比有人陪在身旁，更美妙的事","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":16,"animationId":0,"description":"\\}選擇一大約只有60%的人同意；而選擇二和三卻各有94%和93%。因為我們常處在無意識的潛念狀態中，\n所以聽到對方說出「因為...」便下意識覺得對方需要幫助，若不是太困難的事就不會拒絕。","etypeId":1,"traits":[],"iconIndex":0,"name":"理由的影響力","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":17,"animationId":0,"description":"\\}在推銷、演講或時間不多的場合，就較適合使用反高潮敘事法，先抓住對方的目光。此外，大部分的男性也較\n喜歡聽這樣的破題法。","etypeId":1,"traits":[],"iconIndex":0,"name":"反高潮敘事法","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+{"id":18,"animationId":0,"description":"\\}全美頂尖大學中，不到20%的學生能正確回答以上所有問題。由此可知，不假思索浮現的答案，\n大多是錯誤的。","etypeId":1,"traits":[],"iconIndex":0,"name":"數學小達人","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
 ]
